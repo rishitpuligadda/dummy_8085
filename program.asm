@@ -1,0 +1,4 @@
+MVI B, 0x10
+MVI A, 0x11
+ADD B
+SUB A
